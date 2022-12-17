@@ -1,0 +1,7 @@
+Include <stdio.io>
+
+Int main(void)
+
+{
+printf("hello, world "/n);
+}
